@@ -26,7 +26,7 @@
 <mirrors>
   <mirror>
     <id>codeartifact</id>
-    <name>java-webapp-maven-repo-maven-central-store</id></name>
+    <name>java-webapp-maven-repo-maven-central-store</name>
     <url>https://java-webapp-maven-repo-992382715936.d.codeartifact.us-east-2.amazonaws.com/maven/maven-central-store/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
